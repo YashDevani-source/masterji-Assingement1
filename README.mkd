@@ -1,0 +1,92 @@
+
+
+## 😊 Mood Tracker
+
+A simple web application that allows users to track their mood with 10 different options and stores the data with date and time using local storage.
+
+---
+
+## 🚀 Features
+
+- 😁 **Track Your Mood:** Choose from 10 different mood options to record how you're feeling.
+- ⏰ **Timestamped Entries:** Automatically saves the date and time for each mood entry.
+- 💾 **Local Storage Integration:** Stores mood data persistently in the browser.
+- 📊 **View Mood History:** Displays previous mood entries for tracking patterns.
+
+---
+
+## 🎭 Available Mood Options
+
+- 😁 **Happy**
+- 😔 **Sad**
+- 🤩 **Excited**
+- 😐 **Neutral**
+- 😡 **Angry**
+- 🥱 **Bored**
+- 😎 **Confident**
+- 🤔 **Confused**
+- 😭 **Emotional**
+- 🤒 **Sick**
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5, CSS3, JavaScript
+- Local Storage for data persistence
+- Date and Time API for storing timestamps
+
+---
+
+## 🌐 Live Demo
+
+👉 **Check it out here:** [Mood Tracker Live](https://mood-traker-two.vercel.app)
+
+---
+
+## 📸 Preview
+
+![alt text](image.png)
+
+---
+
+## 📄 How to Run
+
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/your-username/mood-tracker.git
+```
+
+2. **Open `index.html` in your browser:**
+```bash
+open index.html
+```
+
+---
+
+## 🧠 My Learnings
+
+During this project, I learned:
+- ✅ How to use `localStorage` to store and retrieve mood data.
+- ✅ Capturing and formatting date and time in JavaScript.
+- ✅ Dynamically updating DOM elements based on user input.
+- ✅ Building a simple and interactive UI with CSS.
+
+---
+
+
+
+
+
+## 📚 Future Enhancements
+
+- 📊 **Mood Analytics:** Add graphs to analyze mood trends.
+- 📆 **Custom Date Range:** View mood history by date range.
+- 🔔 **Mood Reminders:** Option to set reminders for mood logging.
+
+---
+
+### 🔥 Ready to track your mood? Start now! 😊
+
+---
+
